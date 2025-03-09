@@ -66,4 +66,4 @@ Licensor reserves the right to modify this Agreement at any time. Continued use 
 
 By using the Software, you acknowledge that you have read, understood, and agreed to be bound by this Agreement.
 
-For any inquiries regarding this license, please contact [Your Email or Support Link].
+For any inquiries regarding this license, please contact [mailto:lorant@once-ui.com](mailto:lorant@once-ui.com).
