@@ -13,7 +13,7 @@ import {
   Fade,
   Heading,
 } from "@/once-ui/components";
-import { profile, social } from "@/once-ui/resources/config";
+import { profile, social } from "@/app/resources/config";
 import { useOgData } from "@/hooks/useOgImage";
 
 // Define the link type

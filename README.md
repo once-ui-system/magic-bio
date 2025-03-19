@@ -20,6 +20,8 @@ Clone the starter template from GitHub.
 git clone https://github.com/once-ui-system/magic-bio.git
 ```
 
+Edit `app/resources/config.ts` to configure your bio.
+
 # Authors
 Connect with us!
 

@@ -5,11 +5,12 @@ import classNames from "classnames";
 import { headers } from "next/headers";
 import { Metadata } from "next";
 
-import { baseURL, style, meta, og, schema, profiles, effects } from "@/once-ui/resources/config";
+import { baseURL, style, meta, og, schema, profiles, effects } from "@/app/resources/config";
 import { Background, Column, Flex, ToastProvider } from "@/once-ui/components";
 
 import { Inter } from "next/font/google";
 import { Roboto_Mono } from "next/font/google";
+import Script from "next/script";
 
 const primary = Inter({
   variable: "--font-primary",
@@ -117,7 +118,7 @@ export default function RootLayout({
       )}
     >
       <head>
-        <script
+        <Script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify(schemaData),
