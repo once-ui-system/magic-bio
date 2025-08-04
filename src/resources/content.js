@@ -8,24 +8,20 @@ const content = {
     // title, description and image are generated based on the link (if available) and not provided explicitly
     {
       title: "Once UI", // optional
-      description: "Fully customizable design system for Next.js and Figma", // optional
+      description: "Fully customizable design system for Next.js and Figma.", // optional
       url: "https://once-ui.com", // required if link object exists
-      // children property can be used to add custom React components
-      children: null,
-      direction: "column",
+      favicon: false
     },
     {
       title: "Magic Portfolio", // optional
-      description: "The most awesome portfolio boilerplate built with Once UI", // optional
+      description: "The most awesome portfolio boilerplate built with Once UI.", // optional
       url: "https://magic-portfolio.com", // required if link object exists
-      // children property can be used to add custom React components
-      children: null,
+      favicon: false
     },
     {
       title: "Design Engineers Club", // optional
       url: "https://designengineers.club", // required if link object exists
-      // children property can be used to add custom React components
-      children: null,
+      favicon: false
     },
   ],
 };

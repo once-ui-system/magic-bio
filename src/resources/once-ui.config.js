@@ -117,7 +117,7 @@ const og = {
   title: meta.title,
   description: meta.description,
   type: "website",
-  image: "/images/cover.jpg"
+  image: "/images/og.jpg"
 };
 
 const social = [
