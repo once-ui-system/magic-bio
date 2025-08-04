@@ -28,14 +28,14 @@ interface LinkItem {
 export default function Home() {
   return (
     <Column fillWidth horizontal="center" padding="16">
-      <Column maxWidth="m" aspectRatio="2/1" marginBottom="40">
+      <Column maxWidth="m" aspectRatio="2/1" marginBottom="40" paddingY="24">
         {content.cover && (
           <Row fill position="absolute" left="0" top="0" radius="xl" overflow="hidden" border="neutral-alpha-weak">
             <Media sizes="(max-width: 768px) 100vw, 960px" priority fill src={content.cover} alt={content.name}/>
             <Fade fill position="absolute" to="top" bottom="0" left="0" pattern={{ display: true, size: "2" }}/>
           </Row>
         )}
-        <Column fill center padding="l" gap="4">
+        <Column fill center padding="l" gap="4" align="center">
           {content.avatar && (
             <Avatar src={content.avatar} size="xl" />
           )}
@@ -50,7 +50,7 @@ export default function Home() {
             </Text>
           )}
           {social?.length > 0 && (
-            <Row gap="16" paddingX="l" paddingY="24" horizontal="center" fillWidth wrap>
+            <Row gap="16" paddingX="l" paddingTop="24" horizontal="center" fillWidth wrap>
               {social.map((item: any, index: any) => (
                 <IconButton
                   key={index}
