@@ -22,19 +22,21 @@ git clone https://github.com/once-ui-system/magic-bio.git
 
 Edit `app/resources/config.ts` to configure your bio.
 
-# Authors
-Connect with us!
+# **Authors**
 
-Lorant One: [Site](https://lorant.one), [Threads](https://www.threads.net/@lorant.one), [LinkedIn](https://www.linkedin.com/in/lorant-one/)  
-Zsofia Komaromi: [Site](https://zsofia.pro), [Threads](https://www.threads.net/@zsofia_kom), [LinkedIn](https://www.linkedin.com/in/zsofiakomaromi/)
+Connect with us on Threads or LinkedIn.
 
-# Get involved
-- Join the [Design Engineers Club](https://discord.com/invite/5EyAQ4eNdS) on Discord to connect with designers, developers and share your projects.
-- Report a [bug](https://github.com/once-ui-system/magic-bio/issues/new?labels=bug&template=bug_report.md).
-- Submit a [feature request](https://github.com/once-ui-system/magic-bio/issues/new?labels=feature%20request&template=feature_request.md).
+Lorant Toth: [Threads](https://www.threads.net/@lorant.one), [LinkedIn](https://www.linkedin.com/in/lorant-one/)
 
-# License
+# **Get involved**
 
-TL;DR: Access to Magic Bio under Once UI Pro allows personal/internal use and modifications, but prohibits SaaS, resale, redistribution, and public sharing.
+- Join the [Design Engineers Club on Discord](https://discord.com/invite/5EyAQ4eNdS) and share your bio with us!
 
-See `LICENSE.txt` for more information.
+# **License**
+
+Distributed under the CC BY-NC 4.0 License.
+- Commercial usage is not allowed.
+- Attribution is required.
+- You can extend the license to commercial use by purchasing a [Once UI Pro](https://once-ui.com/pricing) license.
+
+See `LICENSE.md` for more information.
