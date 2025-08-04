@@ -15,18 +15,12 @@ Launch your bio in minutes with:
 [lorant.bio](https://lorant.bio)
 
 # Getting started
-Clone the starter template from GitHub.
-```bash
-git clone https://github.com/once-ui-system/magic-bio.git
-```
 
 Edit `app/resources/config.ts` to configure your bio.
 
-# **Authors**
+# **Created by**
 
-Connect with us on Threads or LinkedIn.
-
-Lorant Toth: [Threads](https://www.threads.net/@lorant.one), [LinkedIn](https://www.linkedin.com/in/lorant-one/)
+Connect with me: [Threads](https://www.threads.net/@lorant.one), [LinkedIn](https://www.linkedin.com/in/lorant-one/)
 
 # **Get involved**
 
